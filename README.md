@@ -89,3 +89,10 @@ Day of the event
 ## Logo and Artwork
 
 [See here](https://github.com/HumbleData/artwork)
+
+## Workshop materials in other languages
+
+* [Italian](https://github.com/HumbleData/online-workshop-italian-v2)
+* [Spanish](https://github.com/HumbleData/beginners-data-workshop/tree/spanish)
+* [Traditional Chinese](https://github.com/HumbleData/beginners-data-workshop/tree/zh-trad)
+* [Japanese](https://github.com/PyLadiesTokyo/HumbleData-beginners-data-workshop)
