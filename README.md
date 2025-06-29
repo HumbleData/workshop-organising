@@ -2,7 +2,7 @@
 
 Thank you for interested in organising a workshop, we have created this repo to hopefully able to help you with organising. 
 
-When start organising a workshop, first, [create an issue](https://github.com/HumbleData/workshop-organising/issues/new?template=organising-a-workshop.md) where you can use it as a task checklist and communicate with other organisers. We would love to help ❤️
+When start organising a workshop, first, [create an issue](https://github.com/HumbleData/workshop-organising/issues/new?template=organising-a-workshop.md) which you can use it as a task checklist and communicate with other organisers. We would love to help ❤️
 
 ## Example timeline
 
