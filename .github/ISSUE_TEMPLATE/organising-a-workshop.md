@@ -1,8 +1,8 @@
 ---
 name: Organising a Workshop
 about: Create an issue to start organising a workshop
-title: "[DATE] - [Name of workshop] (e.g. 19 July 2025 - EuroPython workshop)"
-labels: ''
+title: "DATE - NAME (e.g. 19 July 2025 - EuroPython workshop)"
+labels: 'workshop'
 assignees: ''
 
 ---
